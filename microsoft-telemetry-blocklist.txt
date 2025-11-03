@@ -1,0 +1,48 @@
+# --- Microsoft telemetry / tracking / reporting (safe home version) ---
+
+# Télémétrie et collecte anonyme
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.live.com
+watson.microsoft.com
+settings-win.data.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.df.telemetry.microsoft.com
+statsfe1.ws.microsoft.com
+statsfe2.ws.microsoft.com
+survey.watson.microsoft.com
+
+# Diagnostics / compatibilité
+compatexchange.cloudapp.net
+cs1.wpc.v0cdn.net
+df.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+
+# Expérimentations et contenus sponsorisés
+ads.msn.com
+adnxs.com
+c.msn.com
+c.msn.com.nsatc.net
+fe3.delivery.mp.microsoft.com.nsatc.net
+
+# Suggestions Edge / Cortana / Bing
+browser.pipe.aria.microsoft.com
+bingads.microsoft.com
+cortana.ai
+mobile.pipe.aria.microsoft.com
+
+# Windows Feedback
+feedback.microsoft-hohm.com
+feedback.windows.com
+
+# Services non essentiels (mais utiles à bloquer pour la vie privée)
+settings.data.microsoft.com
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+rad.msn.com
