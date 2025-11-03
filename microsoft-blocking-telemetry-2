@@ -1,0 +1,52 @@
+# --- Anti-Tracking Microsoft & M365 (version safe bureau) ---
+
+# Aria telemetry (Office, Teams, OneDrive)
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+self.events.data.microsoft.com
+
+# Marketing / Ads / suggestions
+ads.msn.com
+adnxs.com
+c.msn.com
+rad.msn.com
+g.msn.com
+a.ads1.msn.com
+a.ads2.msn.com
+ad.doubleclick.net
+advertising.microsoft.com
+
+# Cortana / Bing AI
+api.cortana.ai
+cortana.ai
+www.bing.com
+bat.bing.com
+bat.bing.com.edgekey.net
+bat.rdx.microsoft.com
+
+# Feedback / expérimentation
+feedback.microsoft-hohm.com
+feedback.windows.com
+df.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+settings-win.data.microsoft.com
+
+# Tracking store et suggestions Edge
+storeedgefd.dsx.mp.microsoft.com
+activity.windows.com
+browser.events.data.msn.com
+api.edge.microsoft.com
+ntp.msn.com
+
+# Auto-suggestions, news, widgets
+edge.activity.windows.com
+api.msn.com
+services.edge.microsoft.com
+widget-data.msn.com
+
+# Viva Insights / Workplace Analytics
+analytics.dev.microsoft.com
+viva.office.com
+viva-insights.office.com
+workplaceanalytics.office.com
